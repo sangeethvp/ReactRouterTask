@@ -1,0 +1,5 @@
+body{
+  /* background: linear-gradient(139deg, rgba(2,0,36,1) 0%, rgba(9,98,121,1) 29%, rgba(0,212,255,1) 100%); */
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+
+}
